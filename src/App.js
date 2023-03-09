@@ -6,15 +6,7 @@ function getTitle(title) {
 }
 // const title = "React Introduction";
 function App() {
-  return (
-    <div>
-      <h1>CTD {getTitle("React Introduction")} </h1>
-      <label htmlFor="search" className="search_1">
-        Search
-      </label>
-      <input id="seach" type="text" />
-    </div>
-  );
+  return <h1>Hello React introduction</h1>;
 }
 
 export default App;
