@@ -37,7 +37,7 @@ function App() {
       </section>
       <section>
         <form>
-          <label htmlFor="name">First Name</label>
+          <label for="name">First Name</label>
           <input id="name" type="text" />
         </form>
       </section>
